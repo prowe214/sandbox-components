@@ -15,7 +15,9 @@
       "prefix": "app",
       "mobile": false,
       "styles": [
-        "styles.less"
+        "styles.less",
+        "./cp-component-library/assets/styles/core.less",
+        "./cp-component-library/assets/styles/variables.less"
       ],
       "scripts": [],
       "environments": {
